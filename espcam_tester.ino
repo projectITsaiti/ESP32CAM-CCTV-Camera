@@ -7,10 +7,10 @@
 #include <ArduinoJson.h>
 #include <Wire.h>
 
-const char* ssid = "Agus BJ";
-const char* password = "49h4n1f4549802";
-String chatId = "1281826083";
-String BOTtoken = "5845332798:AAEGhORrvdL0c2_bVEByUZcvpzNBkQovlQs";
+const char* ssid = "Nama Wifi";
+const char* password = "Pass Wifi";
+String chatId = "Id Telegram";
+String BOTtoken = "token bot telegram";
 bool sendPhoto = false;
 
 WiFiClientSecure clientTCP;
